@@ -6,12 +6,11 @@
     </a>
     <a href="https://twitter.com/isi_mube](https://x.com/saraynes_gs">
         <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee">
-    </a>
-    <a href="https://www.researchgate.net/profile/Isidre_Munne-Bertran](https://orcid.org/0000-0002-5580-2153">
-        <img src="https://img.shields.io/badge/https%3A%2F%2Fimages.app.goo.gl%2FaDBaCA9UNke4iQQX8">
-    </a>
 </p>
 
+
+**Social Scientist** in love with **Data Science**, with a background in **Economics**.
+I’m currently learning Data Science in Ironhack.
 
 <!--
 **SaraynesGS/SaraynesGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,8 +25,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+</a>
+    <a href="https://www.researchgate.net/profile/Isidre_Munne-Bertran](https://orcid.org/0000-0002-5580-2153">
+        <img src="https://img.shields.io/badge/https%3A%2F%2Fimages.app.goo.gl%2FaDBaCA9UNke4iQQX8">
+    </a>
+
 -->
 
 
-**Social Scientist** in love with **Data Science**, with a background in **Economics**.
-I’m currently learning Data Science in Ironhack.
