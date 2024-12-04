@@ -1,14 +1,5 @@
 ## Hi! 👋
 
-<p align="center">
-    <a href="www.linkedin.com/in/sara-ynes-gonzales-santisteban-901a37226">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://twitter.com/isi_mube](https://x.com/saraynes_gs">
-        <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee">
-</p>
-
-
 **Social Scientist** in love with **Data Science**, with a background in **Economics**.
 I’m currently learning Data Science in Ironhack.
 
