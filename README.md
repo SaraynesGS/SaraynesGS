@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+**Social Scientist** in love with **Data Science**, with a background in **Economics**.
+I’m currently learning Data Science in Ironhack.
