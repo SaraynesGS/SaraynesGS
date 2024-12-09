@@ -1,8 +1,8 @@
 ## Hi! 👋
 
 <p align="left">
-    <a href="www.linkedin.com/in/sara-ynes-gonzales-santisteban-901a37226">
-        <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Fsara-ynes-gonzales-santisteban-901a37226">
+    <a href="https://www.linkedin.com/in/sara-ynes-gonzales-santisteban-901a37226/">
+        <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Fsara-ynes-gonzales-santisteban-901a37226/">
     </a>  
     <a href="https://x.com/saraynes_gs">
         <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&link=https%3A%2F%2Fx.com%2Fsaraynes_gs">
