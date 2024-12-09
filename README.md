@@ -16,6 +16,14 @@
 **Social Scientist** in love with **Data Science**, with a background in **Economics**.
 I’m currently learning Data Science in Ironhack.
 
+![STATA](https://img.shields.io/badge/STATA-darkblue?style=flat&logo=STATA&logoColor=white)
+![R](https://img.shields.io/badge/R%20studio-darkblue?style=flat&logo=R&logoColor=white)
+![Python](https://img.shields.io/badge/Python-darkblue?style=flat&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-darkblue?style=flat&logo=MySQL&logoColor=white)
+![SAP](https://img.shields.io/badge/Finance-darkblue?style=flat&logo=SAP&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LATEX-darkblue?style=flat&logo=LaTex&logoColor=white)
+
+
 <!--
 **SaraynesGS/SaraynesGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,11 +37,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-</a>
-    <a href="https://www.researchgate.net/profile/Isidre_Munne-Bertran](https://orcid.org/0000-0002-5580-2153">
-        <img src="https://img.shields.io/badge/https%3A%2F%2Fimages.app.goo.gl%2FaDBaCA9UNke4iQQX8">
-    </a>
 
 -->
 
