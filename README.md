@@ -1,7 +1,7 @@
 ## Hi! 👋
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/sara-ynes-gonzales-santisteban-901a37226/">
+    <a href="www.linkedin.com/in/sara-ynes-gonzales-santisteban/">
         <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Fsara-ynes-gonzales-santisteban-901a37226/">
     </a>  
     <a href="https://x.com/saraynes_gs">
