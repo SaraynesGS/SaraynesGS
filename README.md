@@ -14,7 +14,7 @@
 
 
 **Social Scientist** in love with **Data Science**, with a background in **Economics**.
-I’m currently learning Data Science in Ironhack.
+
 
 ![STATA](https://img.shields.io/badge/STATA-darkblue?style=flat&logo=STATA&logoColor=white)
 ![R](https://img.shields.io/badge/R%20studio-darkblue?style=flat&logo=R&logoColor=white)
