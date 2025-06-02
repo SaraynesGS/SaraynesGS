@@ -13,7 +13,7 @@
 </p>
 
 
-**Social Scientist** in love with **Data Science**, with a background in **Economics**.
+**Social Scientist** in love with **Data Science**, with a background in **Economics**. Over the last five years, I've been studying private pensions in Europe as part of a project at Carlos III de Madrid University. Under this project, I have co-authored two published papers with my PhD Advisor, Juan J. Fernández.
 
 
 ![STATA](https://img.shields.io/badge/STATA-darkblue?style=flat&logo=STATA&logoColor=white)
