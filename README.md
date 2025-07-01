@@ -24,7 +24,7 @@
 ![LaTeX](https://img.shields.io/badge/LATEX-darkblue?style=flat&logo=LaTex&logoColor=white)
 
 
-Read my CV[https://saraynesgs.github.io/cv-saraynesgs/] 
+Read my CV: https://saraynesgs.github.io/cv-saraynesgs/
 
 <!--
 **SaraynesGS/SaraynesGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
