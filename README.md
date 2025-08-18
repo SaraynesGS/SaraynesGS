@@ -1,4 +1,51 @@
-## Hi! 👋
+## 👋 Hello, I'm Sara Ynes Gonzales Santisteban
+
+![STATA](https://img.shields.io/badge/STATA-darkblue?style=flat&logo=STATA&logoColor=white)
+![R](https://img.shields.io/badge/R%20studio-darkblue?style=flat&logo=R&logoColor=white)
+![Python](https://img.shields.io/badge/Python-darkblue?style=flat&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-darkblue?style=flat&logo=MySQL&logoColor=white)
+![SAP](https://img.shields.io/badge/Finance-darkblue?style=flat&logo=SAP&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LATEX-darkblue?style=flat&logo=LaTex&logoColor=white)
+
+### 🌟 About Me
+
+I'm a dynamic and detail-oriented Data Scientist with extensive experience in academic research within social science and public policy. I excel at transforming complex datasets into actionable insights, guiding strategic decision-making. My proficiency in advanced data visualization and comprehensive statistical analysis underpins my research, allowing me to interpret statistical metrics and deliver well-substantiated conclusions.
+
+### 🔧 Skills
+
+- **Data Analysis & Visualization:** 
+  - Python, R, Stata, MySQL, Tableau
+  - Predictive modeling, Natural Language Processing (NLP)
+- **Software Tools:** 
+  - SAP Finance, SAP ABAP
+- **Languages:** 
+  - Fluent in English and Spanish (Native)
+
+### 📚 Education
+
+- **Ironhack** - Data Science and Machine Learning Bootcamp (400+ hours)  
+- **Universidad Carlos III de Madrid** - PhD Candidate in Social Science  
+- **Universidad Carlos III de Madrid – Juan March Institute** - MA in Social Science  
+- **Universidad de Piura** - BA in Economics and Finance  
+
+### 📈 Publications
+
+- "Socio-Economic Gaps in Workers’ Participation in Private Pensions" - Journal of Social Policy
+- "Can Pension Fund Design Increase Pension Savings?" - Work, Aging and Retirement
+
+For detailed insights and methodologies, check out my publications or reach out for discussions!
+
+### 💼 Professional Experience
+
+- **Pre-doctoral Researcher:** Conducted comprehensive data collection, analysis, and stakeholder interviews at Universidad Carlos III de Madrid.
+- **Public Policy Researcher:** Analyzed public policies affecting economic structures in Peru, contributing to informed policy-making.
+
+### 🌍 Projects & Interests
+
+- Eager to contribute to projects that leverage data-driven decision-making in fast-paced environments.
+- Recently completed a Data Science Bootcamp at Ironhack. Looking to collaborate on open-source projects and gain hands-on experience with tools like Python and Power BI.
+
+### 🌐 Connect with Me
 
 <p align="left">
     <a href="www.linkedin.com/in/sara-ynes-gonzales-santisteban/">
@@ -12,16 +59,9 @@
     </a>
 </p>
 
+Feel free to dig into my repositories to see more of my work and research contributions. Let's connect and explore how we can make data work for us!
 
-**Social Scientist** in love with **Data Science**, with a background in **Economics**. Over the last five years, I've been studying private pensions in Europe as part of a project at Carlos III de Madrid University. Under this project, I have co-authored two published papers with my PhD Advisor, Juan J. Fernández.
 
-
-![STATA](https://img.shields.io/badge/STATA-darkblue?style=flat&logo=STATA&logoColor=white)
-![R](https://img.shields.io/badge/R%20studio-darkblue?style=flat&logo=R&logoColor=white)
-![Python](https://img.shields.io/badge/Python-darkblue?style=flat&logo=Python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-darkblue?style=flat&logo=MySQL&logoColor=white)
-![SAP](https://img.shields.io/badge/Finance-darkblue?style=flat&logo=SAP&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LATEX-darkblue?style=flat&logo=LaTex&logoColor=white)
 
 
 Read my CV: https://saraynesgs.github.io/cv-saraynesgs/
@@ -39,6 +79,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
 -->
 
