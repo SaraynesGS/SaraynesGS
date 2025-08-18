@@ -43,7 +43,7 @@ For detailed insights and methodologies, check out my publications or reach out 
 ### 🌍 Projects & Interests
 
 - Eager to contribute to projects that leverage data-driven decision-making in fast-paced environments.
-- Recently completed a Data Science Bootcamp at Ironhack. Looking to collaborate on open-source projects and gain hands-on experience with tools like Python and Power BI.
+- Recently completed a Data Science Bootcamp at Ironhack. Looking to collaborate on open-source projects and gain hands-on experience with tools like Python and Tableau.
 
 ### 🌐 Connect with Me
 
