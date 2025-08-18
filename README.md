@@ -47,6 +47,8 @@ For detailed insights and methodologies, check out my publications or reach out 
 
 ### 🌐 Connect with Me
 
+Feel free to dig into my repositories to see more of my work and research contributions. Let's connect and explore how we can make data work for us!
+
 <p align="left">
     <a href="www.linkedin.com/in/sara-ynes-gonzales-santisteban/">
         <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Fsara-ynes-gonzales-santisteban-901a37226/">
@@ -58,11 +60,6 @@ For detailed insights and methodologies, check out my publications or reach out 
         <img src="https://img.shields.io/badge/ORCID-green?logo=ORCID&logoColor=white&link=https%3A%2F%2Forcid.org%2F0000-0002-5580-2153">
     </a>
 </p>
-
-Feel free to dig into my repositories to see more of my work and research contributions. Let's connect and explore how we can make data work for us!
-
-
-
 
 Read my CV: https://saraynesgs.github.io/cv-saraynesgs/
 
