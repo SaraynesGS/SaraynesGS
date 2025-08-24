@@ -30,8 +30,8 @@ I'm a dynamic and detail-oriented Data Scientist with extensive experience in ac
 
 ### 📈 Publications
 
-- "Socio-Economic Gaps in Workers’ Participation in Private Pensions" - Journal of Social Policy
-- "Can Pension Fund Design Increase Pension Savings?" - Work, Aging and Retirement
+- ["Socio-Economic Gaps in Workers’ Participation in Private Pensions"](https://www.cambridge.org/core/journals/journal-of-social-policy/article/socioeconomic-gaps-in-workers-participation-in-private-pension-programmes-in-ten-european-countries/4870BECDBC2EC297FF56DC7EADC8C379) - Journal of Social Policy
+- ["Can Pension Fund Design Increase Pension Savings? Evidence from a conjoint experiment in six European countries"](https://github.com/SaraynesGS/Conjoint-analysis-Pensions?tab=readme-ov-file) - Work, Aging and Retirement
 
 For detailed insights and methodologies, check out my publications or reach out for discussions!
 
